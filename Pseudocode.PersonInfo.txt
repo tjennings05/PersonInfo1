@@ -1,0 +1,43 @@
+START
+
+
+
+Declare variables:
+
+		firstName as string
+
+		lastName as string
+
+		streetAddress as string
+
+		city as string
+
+		zipCode as string
+
+
+
+Set firstName to "Bill"
+
+Set lastName to "Johnson"
+
+Set streetAddress to "2024 Jones Street"
+
+Set city to "Nowhere"
+
+Set zipCode to "54321"
+
+
+
+Print firstName
+
+Print lastName
+
+Print streetAddress
+
+Print city
+
+Print zipCode
+
+
+
+END
